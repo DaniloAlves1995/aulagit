@@ -15,7 +15,8 @@ public class AulaGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int a;
+        Calculadora c = new Calculadora();
+        
     }
     
 }
